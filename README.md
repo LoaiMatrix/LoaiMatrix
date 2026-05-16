@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm LoaiMatrix | لؤي ماتريكس 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Digital+Forensics+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D9%88%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D8%AF%D9%84%D8%A9+%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9+%D8%B1%D9%82%D9%85%D9%8A%D8%A9;Founder+of+CYVEX+META+%7C+%D9%85%D8%A4%D8%B3%D8%B3+%D1%81%D8%B1%D9%8A%D9%8ق;Digital+Forensics+Expert+%7C+%D8%AE%D8%A8%D9%8A%D8%B1+%D8%A3%D8%AF%D9%84%D8%A9+%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9;Cyber+Security+%26+Account+Recovery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA;Founder+of+CYVEX+META+%7C+%D9%85%D8%A4%D8%B3%D8%B3+%D9%81%D8%B1%D9%8A%D9%82;Digital+Forensics+Expert+%7C+%D8%AE%D8%A8%D9%8A%D8%B1+%D8%A3%D8%AF%D9%84%D8%A9+%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9;Cyber+Security+%26+Account+Recovery" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,5 +77,5 @@ Are you looking for an elite software engineer or cyber security expert? Let's c
 ---
 
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=Secured&color=00FF66&width=600" alt="Footer Bar" />
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=00FF66&height=120&section=footer&text=LoaiMatrix%20Secured&fontSize=20&fontColor=ffffff" alt="Footer Wave" />
 </p>
