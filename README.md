@@ -48,7 +48,7 @@ I am a passionate **Software Engineer**, **Professional App Developer**, and **C
 ### 📈 Contribution Activity | نشاط الحساب التفاعلي
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loaimatrix&theme=tokyonight" alt="LoaiMatrix Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindresorhus&theme=tokyonight" alt="LoaiMatrix Streak" width="100%" />
 </p>
 
 ---
@@ -61,21 +61,24 @@ I am a passionate **Software Engineer**, **Professional App Developer**, and **C
 
 ---
 
-### 📬 Connect With Me | تواصل معي للعمل والتعاون
+### 📊 CYVEX-META // SECURITY ECOSYSTEM ANALYTICS 
 
-Are you looking for an elite software engineer or cyber security expert? Let's connect!
+> [!NOTE]
+> **LOAIMATRIX DIGITAL MONITOR v2.4** — `STATUS: ACTIVE` `INTELLIGENCE: ARMED`
 
-<p align="left">
-  <a href="mailto:loaysaid2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
+```diff
+========================================================================
++ [MAIN_CORE]  Sultanate of Oman Node Connected via Secure Tunnel [🇴🇲]
++ [DEV_STACK]  Flutter Environment & Mobile Compilers .. [READY]
++ [FORENSICS]  Digital Evidence Analyzer & CDFE Modules . [LOADED]
++ [FIREWALL]   Intrusion Prevention System Matrix ...... [ONLINE]
+- [ATTACKS]    Brute-Force & Unauthorized API Requests . [BLOCKED]
+========================================================================
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=00FF66&height=120&section=footer&text=LoaiMatrix%20Secured&fontSize=20&fontColor=ffffff" alt="Footer Wave" />
-</p>
+### 🛸 System Status | حالة النظام الحالي
+
+```diff
++ [ONLINE] LoaiMatrix System Core is Running Smoothly...
++ [SUCCESS] Security Protocols Loaded Successfully.
+- [WARNING] Unauthorized Access Attempts Blocked Instantly.
